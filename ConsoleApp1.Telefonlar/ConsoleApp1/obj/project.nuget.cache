@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SU7LbbjmZ5aIQUmIRAKwPsOfIjt/QXj0u3SE/e7NErI63QIi4ppD7TQDSI8oH9f9XX8S+qF66fq4CWdVuU0lUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\isi\\task-5-Telefonlar-\\ConsoleApp1.Telefonlar\\ConsoleApp1\\ConsoleApp1.PhoneSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
